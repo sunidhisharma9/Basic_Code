@@ -5,3 +5,7 @@ C++ programs
 **1_2_NCR**  - Find combination (nCr).<br/>
 **1_3_LCM**  - Find LCM of 2 numbers.<br/>
 **1_4_SERI** - Find output of ( 1+ x^2/2!+ x^4/4!+...x^n/n! ) for particular x and n.<br/>
+**1_5_SERI** - Find output of ( 1- x/2!+ x^2/3!-...x^n/n!   ) for particular x and n.<br/>
+**1_6_SERI** - Find output of ( 1-2+3-4.....n ) for particular x and n.<br/>
+**1_7_MAXM** - Find maximum and minimum out of 10 numbers.<br/>
+</br>

@@ -9,3 +9,7 @@ C++ programs
 **1_6_SERI** - Find output of ( 1-2+3-4.....n ) for particular x and n.<br/>
 **1_7_MAXM** - Find maximum and minimum out of 10 numbers.<br/>
 </br>
+**2_1_STAR** - Create a staircase star pattern. 
+**2_2_STAR** - Create a pyramid star pattern.
+**2_3_PATT** - Create a number pattern.
+**2_4_QUAD** - solving quadratic equation

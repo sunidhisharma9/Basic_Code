@@ -19,4 +19,10 @@ C++ programs
 **2_8_NUMC** - Count numbers of 0s, positive and negative numbers entered.<br/>
 **2_9_SUMA** - Calculate sum and average of numbers entered.<br/>
 <br/>
-
+**3_1_4DIG** - Calculate sum of digits of a 4digit number.<br/>
+**3_2_base** - Menu based conversion from base decimal to octal/binary/hexadecimal.<br/>
+**3_3_ZERO** - Count number of 0s in digit entered.<br/>
+**3_5_STAR** - Create a star pattern.</br>
+**3_6_FREQ** - Calculate frequency of 0-9 in list of 20 numbers.<br/>
+**3_8_EVEN** - Count number of even and odd numbers in the list of entered numbers.<br/>
+<br/>

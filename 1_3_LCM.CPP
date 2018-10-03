@@ -19,5 +19,5 @@ else if(b>a)
   else
   { lcm=a*b; }
 }
-cout<<"lcm is "<<lcm;
+cout<<"lcm of the two numbers is"<<lcm;
 getch(); }

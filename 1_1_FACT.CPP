@@ -4,7 +4,7 @@
 
 void main()
 { int fac=1,num;
-  clrscr();
+  clrscr(); //clrscr() to clear screen.
   cout<<"enter number whose factorial is to be printed";
   cin>>num;
   for(int i=num;i>0;i--)
